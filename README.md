@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm copylee33
 
-<!--
-**copylee33-commits/copylee33-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Researcher / Graduate student
+> Working on **LBBD (Logic-Based Benders Decomposition)** and related optimization topics
+> A related paper is currently **under review** — code will be open-sourced upon acceptance.
 
-Here are some ideas to get you started:
+## Research Interests
+- Mathematical optimization / decomposition methods
+- Logic-Based Benders Decomposition (LBBD)
+- [your sub-direction 3]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech & Tools
+- Languages: Python
+- Scientific stack: NumPy, SciPy
+- Workflow: Git, LaTeX
+
+## Selected Work
+> Details embargoed until peer review completes. Full artifacts will be released after acceptance.
+
+## How to reach me
+- Email: copylee33@gmail.com
+- Google Scholar: [link]()
+- ORCID: [link]()
+- LinkedIn: [link]()
+
+---
+
+Thanks for visiting — more coming soon.
