@@ -1,13 +1,14 @@
 # Hi there, I'm copylee33
 
-> Researcher / Graduate student
-> Working on **LBBD (Logic-Based Benders Decomposition)** and related optimization topics
+> M.Sc. student at **Xidian University**
+> Research fields: **Operations Research & Optimization**, **Industrial Engineering**, **Approximation Algorithms**, **Intelligent Scheduling Theory**
 > A related paper is currently **under review** — code will be open-sourced upon acceptance.
 
 ## Research Interests
-- Mathematical optimization / decomposition methods
+- Operations research & optimization algorithms
 - Logic-Based Benders Decomposition (LBBD)
-- [your sub-direction 3]
+- Industrial engineering & intelligent scheduling theory
+- Approximation algorithms
 
 ## Tech & Tools
 - Languages: Python
@@ -19,7 +20,7 @@
 
 ## How to reach me
 - Email: copylee33@gmail.com
-- Google Scholar: [link]()
+- Google Scholar: [profile](https://scholar.google.com/citations?user=bqz6YysAAAAJ&hl=en)
 - ORCID: [link]()
 - LinkedIn: [link]()
 
